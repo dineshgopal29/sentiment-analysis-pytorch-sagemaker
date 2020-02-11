@@ -1,2 +1,2 @@
-# sentiment-analysis-pytorch-sagemaker
-Sentiment Analysis using PyTorch
+# Sentiment Analysis using PyTorch
+
