@@ -19,4 +19,4 @@
 
 ***
 
-***Web Application URL***: 
+***Web Application URL***: https://web-pages-01.s3.amazonaws.com/index.html
