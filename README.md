@@ -11,6 +11,8 @@
 6. Deploy the trained model
 7. Use the deployed model
 
+***
+
 ***Accomplishments***
 - Learned and following Machine Learning Workflow and best practices
 - Implemented a prodcution ready deep learning model using Sagemaker
@@ -19,4 +21,3 @@
 
 ***
 
-***Web Application URL***: https://web-pages-01.s3.amazonaws.com/index.html
